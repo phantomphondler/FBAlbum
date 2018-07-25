@@ -31,7 +31,7 @@ The variables that are available are listed below with a description.
 
 * tpl - the chunk you want to use
 * fb_page_id - Page id you can get it here https://findmyfbid.com or search google
-* access_token - app key and secret key seperated by a | e.g. 974662995944937|h9GLXXk3KSeDpUBMS0pdvEiX0lA
+* access_token - app key and secret key seperated by a | e.g. 9746629959044937|h9GLXXk3jKSeDpUBMS0pdvEiX0lA
 * pics_per_page - how many pics you want to load. Note lots of pics will really slow down the page
 * show_all - also show cover pic etc
 * albumid - FB album URL you can get it from the URL
