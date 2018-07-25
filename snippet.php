@@ -51,11 +51,11 @@ You can use the following
 
 
 $tpl = isset($tpl)? $tpl : "fbAlbumTpl";
-$fb_page_id = isset($fb_page_id)? $fb_page_id : "10150136759965455";
-$access_token = isset($access_token)? $access_token : "236995737075698|012b2f08530b0d0bce2dfe6a84cca8a5";
+$fb_page_id = isset($fb_page_id)? $fb_page_id : "";
+$access_token = isset($access_token)? $access_token : "";
 $pics_per_page = isset($pics_per_page)? $pics_per_page :10;
 $show_all = isset($show_all)? $show_all :FALSE;		//Set to TRUE to show Timelime Photos, Cover Photos & Profile Pictures
-$albumid = isset($albumid)? $albumid :"10160926076495455";
+$albumid = isset($albumid)? $albumid :"";
 $debug = isset($debug)? $debug :0;
 
 
